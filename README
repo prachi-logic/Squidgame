@@ -1,0 +1,65 @@
+# 🎮 Squid Game – Red Light, Green Light
+
+An interactive Squid Game-inspired browser game built using **HTML, CSS, and JavaScript**.
+
+## 🌟 About the Project
+
+This project recreates the excitement of the Red Light, Green Light challenge with an interactive gaming experience. Players must move carefully when the green light is on and stop when the red light appears.
+
+The project also includes a Dalgona challenge with different shapes to make the gameplay more interesting.
+
+## ✨ Features
+
+- 🎭 Squid Game-inspired visual theme
+- 🚦 Red Light, Green Light gameplay
+- 🕹️ Player movement controls
+- 👮 Animated guards and doll
+- 🍪 Dalgona shape-tracing challenge
+- ⏱️ Timer and score system
+- 🏆 Victory and elimination screens
+- ⏸️ Pause and restart options
+- 📱 Mobile control buttons
+- 🔊 Sound effects with mute option
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- HTML Canvas API
+- Web Audio API
+
+## 🎮 Controls
+
+| Key | Action |
+|---|---|
+| W / ↑ | Move Forward |
+| A / ← | Move Left |
+| D / → | Move Right |
+| ESC | Pause Game |
+
+Mobile users can use the on-screen controls.
+
+## 🚀 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone YOUR_REPOSITORY_URL
+   ```
+2. Open the project folder.
+3. Open `index.html` in your browser.
+4. Start playing!
+
+## 📂 Project Structure
+
+```text
+Squid-Game/
+│
+├── index.html
+├── README.md
+└── screenshot.png
+```
+
+## 🎯 Learning Outcomes
+
+- Practiced JavaScript game logic
